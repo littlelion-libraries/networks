@@ -3,9 +3,9 @@ using System.Collections;
 using Tasks;
 using UnityEngine.Networking;
 
-namespace Networks
+namespace Networks.Tasks
 {
-    public class TaskNetwork : ITaskNetwork
+    public class TaskNetwork// : ITaskNetwork
     {
         private Action<IEnumerator> _step;
 

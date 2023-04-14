@@ -1,0 +1,16 @@
+{
+    "name": "Networks.Tasks",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b62eeecee1615e349aac47c0d917db5b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
